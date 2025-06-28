@@ -7,7 +7,7 @@ This project uses **React Context (`useContext`)** for global state management �
 
 ## 🔗 Live Demo
 
-🚀 **[View Live Site]** :
+🚀 **[View Live Site]** : https://reactusecontextt.netlify.app/
 
 ---
 
